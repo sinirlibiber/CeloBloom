@@ -1,7 +1,8 @@
 # 🌱 CeloBloom
 
 **Plant a seed with your donation, bloom a world**
-![CeloBloom app click](https://celobloom.replit.app)
+
+[CeloBloom app click](https://celobloom.replit.app)
 
 CeloBloom is a decentralized donation platform built on the Celo blockchain that combines crowdfunding campaigns with social sharing features. Create campaigns, donate with cUSD, and share your impact with the community.
 
